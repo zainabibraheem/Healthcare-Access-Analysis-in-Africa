@@ -71,6 +71,14 @@ The healthcare facility type that is most efficient is the hospital because it h
      2. Allocated funds should be used to provide needed resources, such as beds in the healthcare facilities in rural regions.
      3. To maximize the impact of the allocated funds, governments should provide infrastructural facilities such as electricity and internet.
 
+
+## Dashboard
+        
+![Screenshot 2025-06-23 121723](https://github.com/user-attachments/assets/b601cf9a-aaa6-4b1e-8ccb-137e605f50cd)
+
+![Screenshot 2025-06-23 121929](https://github.com/user-attachments/assets/0108ac94-502d-4379-bf13-6d6e847fa55a)
+
+
 Link to Interactive Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiMzViYmMzZDItOWNiZC00MDBmLWJhZGEtNWM5MjAyM2FmMDI5IiwidCI6IjA0YWFkOGUyLWU3NWUtNDc3ZC1hYzc3LWMyOWE2MGJjNzFjOCJ9
 
